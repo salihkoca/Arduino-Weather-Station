@@ -74,7 +74,7 @@ The DHT22 sensor has three pins to be connected to the Arduino:
 | GND        | GND               |
 | DATA       | A0 (Analog Pin 0) |
 
-**Note**: Use a **10kΩ pull-up resistor** between `VCC` (5V) and `DATA` (A0). This resistor is important for stabilizing the data signal from the sensor.
+**Note**: Use a **10kΩ pull-up resistor** between `VCC` (5V) or withour resistor 'VCC' (3.3V) and `DATA` (A0). This resistor is important for stabilizing the data signal from the sensor.
 
 ### Wiring the Nokia 5110 LCD Display
 
