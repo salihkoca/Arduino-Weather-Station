@@ -24,8 +24,8 @@ To use this project, you will need:
 - **10kΩ Resistor**: A pull-up resistor to stabilize the data line for the DHT22 sensor.
 - **Jumper Wires**: To make connections between the sensor, display, and the Arduino.
 
-<img src="https://github.com/user-attachments/assets/3f879672-f10e-4173-b48b-92f0ecfb2532" alt="Screenshot 2024-10-09 035541" width="300" height="300" style="border:2 solid lightblue;"/>
-<img src="https://github.com/user-attachments/assets/a4c3f56a-a635-4da3-9f89-9b8a0a2e71ff" alt="Screenshot 2024-10-00 035541" width="300" height="300" style="border:2 solid lightblue;"/>
+<img src="https://github.com/user-attachments/assets/3f879672-f10e-4173-b48b-92f0ecfb2532" alt="Screenshot 2024-10-09 035541" width="280" height="280" style="border:2 solid lightblue;"/>
+<img src="https://github.com/user-attachments/assets/a4c3f56a-a635-4da3-9f89-9b8a0a2e71ff" alt="Screenshot 2024-10-00 035541" width="280" height="280" style="border:2 solid lightblue;"/>
 <img src="https://github.com/user-attachments/assets/a7217dd7-ae48-4efc-82f4-dbca0bbbc899" alt="Screenshot 2024-10-03 035541" width="250" height="200" style="border:2 solid lightblue;"/>
 
 ## Library Installation
